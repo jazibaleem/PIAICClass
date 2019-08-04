@@ -1,6 +1,10 @@
 Added new 
 
+<<<<<<< HEAD
 
 
 
 commit by jazib
+=======
+Aqib
+>>>>>>> 993d4310405a17024742a6663c40be211164f149
